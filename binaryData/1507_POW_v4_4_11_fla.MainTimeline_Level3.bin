@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POW>
+	<global>
+		<!-- This is not  directly visual. It defines a volume of cum, used against cum capacity variables to determine when to show cum overflow effects -->
+		<cumLoad>9</cumLoad> 
+		<!-- These determine how much cum the vagina can hold before overflow effects begin. The cum overflow begins beyond minimum, and the squirt effects beyond maximum. The vagina's size is what is multiplied, as defined by pokemon.xml -->
+		<vaginalMinimumCapacityMultiplier>4</vaginalMinimumCapacityMultiplier>
+		<vaginalMaximumCapacityMultiplier>7</vaginalMaximumCapacityMultiplier>
+	</global>
+	<plan act="missionary">
+		<sequences>
+			<idle>
+				<min>2</min>
+				<max>4</max>
+				<!-- refers to the cumLoad value, determines how much leaks from the vagina each loop while pulled out. This value is doubled when the leak rate is excessive (capacity beyond max) -->
+				<cumDrainRate>5</cumDrainRate>
+			</idle>
+			<slow>
+				<min>15</min>
+				<max>20</max>
+				<thoughtChance>10</thoughtChance>
+			</slow>
+			<medium>
+				<min>15</min>
+				<max>20</max>
+				<thoughtChance>8</thoughtChance>
+			</medium>
+			<fast>
+				<min>8</min>
+				<max>12</max>
+				<thoughtChance>5</thoughtChance>
+			</fast>
+			<cum>
+				<min>1</min>
+				<max>4</max>
+			</cum>
+			<afterglow>
+				<min>1</min>
+				<max>3</max>
+			</afterglow>
+		</sequences>
+		<climax>
+			<!-- The number of loops (eg humps) before climax is reached -->
+			<min>30</min>
+			<max>50</max>
+			<!-- Percentage change to pull out after the afterglow stage -->
+			<pullOutDuringChance>50</pullOutDuringChance>
+			<!-- Percentage change to pull out after the primary cum stage -->
+			<pullOutAfterChance>66</pullOutAfterChance>
+			<!-- Percentage change the human will cum at additional moments -->
+			<cumHardChance>15</cumHardChance>
+			<cumHardExtraCum>3</cumHardExtraCum>
+			<cumHardCumLoadBonus>2</cumHardCumLoadBonus>
+			<!-- Percentage change the human will cum at even more additional moments. Both can stack -->
+			<cumVeryHardChance>5</cumVeryHardChance>
+			<cumVeryHardExtraCum>5</cumVeryHardExtraCum>
+			<cumVeryHardCumLoadBonus>3</cumVeryHardCumLoadBonus>
+			<!-- Percentage change the human will have a small, second orgasm during the afterglow stage -->
+			<afterglowCumChance>15</afterglowCumChance>
+		</climax>
+	</plan>
+</POW>

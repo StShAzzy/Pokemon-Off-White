@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="16.8px" width="5.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.4, -41.65)">
+    <path d="M2.7 48.15 L2.75 48.25 Q3.3 49.55 3.75 52.35 L4.05 54.15 Q4.55 58.5 6.75 56.95 8.75 55.45 6.25 52.4 4.3 50.1 4.0 47.95 4.0 47.2 4.0 46.5 L4.1 45.85 Q4.3 43.4 3.95 41.65 L2.75 44.55 Q2.1 46.8 2.7 48.15" fill="#ffffff" fill-rule="evenodd" stroke="none">
+      <animate attributeName="fill" dur="2s" repeatCount="indefinite" values="#ffffff;#ffffff"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M2.7 48.15 L2.75 48.25 Q3.3 49.55 3.75 52.35 L4.05 54.15 Q4.55 58.5 6.75 56.95 8.75 55.45 6.25 52.4 4.3 50.1 4.0 47.95 4.0 47.2 4.0 46.5 L4.1 45.85 Q4.3 43.4 3.95 41.65 L2.75 44.55 Q2.1 46.8 2.7 48.15;M2.7 56.0 L2.7 56.0 Q3.45 56.45 4.05 57.6 L4.6 58.2 Q5.7 58.25 6.75 58.3 8.8 57.9 7.25 57.0 5.7 56.1 5.75 55.4 5.8 54.9 6.1 54.65 L6.35 54.45 Q5.9 54.05 4.6 54.2 L3.1 54.8 Q1.95 55.6 2.7 56.0"/>
+    </path>
+    <path d="M2.7 48.15 Q2.1 46.8 2.75 44.55 L3.95 41.65 Q4.3 43.4 4.1 45.85 L4.0 46.5 Q4.0 47.2 4.0 47.95 4.3 50.1 6.25 52.4 8.75 55.45 6.75 56.95 4.55 58.5 4.05 54.15 L3.75 52.35 Q3.3 49.55 2.75 48.25 L2.7 48.15" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M2.7 48.15 Q2.1 46.8 2.75 44.55 L3.95 41.65 Q4.3 43.4 4.1 45.85 L4.0 46.5 Q4.0 47.2 4.0 47.95 4.3 50.1 6.25 52.4 8.75 55.45 6.75 56.95 4.55 58.5 4.05 54.15 L3.75 52.35 Q3.3 49.55 2.75 48.25 L2.7 48.15;M2.7 56.0 Q1.95 55.6 3.1 54.8 L4.6 54.2 Q5.9 54.05 6.35 54.45 L6.1 54.65 Q5.8 54.9 5.75 55.4 5.7 56.1 7.25 57.0 8.8 57.9 6.75 58.3 5.7 58.25 4.6 58.2 L4.05 57.6 Q3.45 56.45 2.7 56.0 L2.7 56.0"/>
+    </path>
+  </g>
+</svg>

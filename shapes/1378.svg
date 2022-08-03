@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="174.5px" width="56.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 28.0, 87.25)">
+    <path d="M27.5 -86.75 L25.25 -83.35 -24.8 -83.35 -27.5 -86.75 27.5 -86.75 M-5.95 -59.5 L9.1 -59.5 9.1 -27.5 -5.95 -27.5 -5.95 -59.5" fill="#ded0ca" fill-rule="evenodd" stroke="none"/>
+    <path d="M-24.8 -83.35 L25.25 -83.35 27.5 -86.75 27.5 0.2 25.25 -1.8 -24.8 -1.8 -24.8 -83.35 M-5.95 -59.5 L-5.95 -27.5 9.1 -27.5 9.1 -59.5 -5.95 -59.5" fill="#fcede6" fill-rule="evenodd" stroke="none"/>
+    <path d="M-27.5 -86.75 L-24.8 -83.35 -24.8 -1.8 -27.5 0.2 -27.5 -86.75" fill="#c2b6b1" fill-rule="evenodd" stroke="none"/>
+    <path d="M-24.8 -1.8 L25.25 -1.8 27.5 0.2 10.55 0.2 10.55 0.7 -8.4 0.7 -8.4 0.2 -8.8 0.2 -27.5 0.2 -24.8 -1.8" fill="#e2d5cf" fill-rule="evenodd" stroke="none"/>
+    <path d="M-8.8 0.2 L-8.4 0.2 -8.4 0.7 10.55 0.7 10.55 86.75 -8.8 86.75 -8.8 0.2" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-5.95 -59.5 L9.1 -59.5 9.1 -27.5 -5.95 -27.5 -5.95 -59.5" fill="none" stroke="#beb5af" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M27.5 -86.75 L-27.5 -86.75 -27.5 0.2 -8.8 0.2 M27.5 0.2 L27.5 -86.75 M10.55 0.2 L27.5 0.2" fill="none" stroke="#e7dcd5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M10.55 0.7 L10.55 0.2 M10.55 0.7 L10.55 86.75 -8.8 86.75 -8.8 0.2" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0118, 0.0, 0.0, 0.0528, 0.85, 43.45)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#666666"/>
+      <stop offset="1.0" stop-color="#999999"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POW>
+	<meta version="1" />
+	<actor pokemonNum="1">
+		<basic>
+			<name>Flareon</name>
+			<pokemonID>136</pokemonID>
+			<typeA>Fire</typeA>
+			<height>0.9</height>
+			<weight>25.0</weight>
+			<color>0xEE830F</color>
+		</basic>
+		<sexual>
+			<defaultAct>cowgirl</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>true</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Putting the heat in heat, breeders should exercise caution with Flareons as they will seldom be sated by a single male and may aggressively seek additional partners. A Flareon's genitalia will become super-heated during copulation to provide a liberally slick, deeply moist instrument to thank their partner, although few will be able to last very long under such intense conditions.
+				</description>
+				<extra>
+					Mating personality and traits: Flareon have been known to mate for hours on end with a fiery passion that is true to their type. Often times more brazen and forward about mating than most of her eeveelution constituents, her heated desires have been known to quickly consume her chosen mate within a maelstrom of emotional lust and love. A special and little known trait of this adorable flame vixen is that her genitalia will become super-heated during copulation to provide a liberally slick, deeply moist and wonderfully warm passage from which to deliver the male's member and then finally semen as it eventually comes to be deposited within the waiting confines of her womb.
+				
+					Mating partnerships: With a tendency to come on hot and heavy towards whatever male might happen to be around her in the moment of a heat, or even in cases when she’s just in a bit of an overly aroused state, it’s well documented that female Flareon simply cannot help themselves from pursuing or outright mounting a nearby opposing gender in order to satiate their needs.  For this reason, it’s often very hard for a Flareon to stay the course with just one sexual partner alone; her sexual flame is usually just too hot to handle for one single male partner to contain it would seem, and they’ve also been labeled as heartbreakers on occasion for that reason.
+				
+					Special notes:  Even though this hot, hot, hot to handle eeveelution can be very highly promiscuous, there still have been rare instances where they actually have been able to stay with just one male partner alone; if only the bond between the two is that very strong or the Flareon is somehow able to get her overheated sexual lusts sated enough by just one other.  Another contributing factor to her polygamous nature is the simple fact that a majority of males cannot last very long when humping into one!  The internal workings of this powerful Pokémon’s reproductive system is so very effective that many a time a mounted mate will simply cum within a mere minute or two, far before the female Flareon has had her fill.
+				</extra>
+
+				<heatCycle>Every 8w for 12d</heatCycle>
+				<vagina>
+					<min>11</min>
+					<max>17</max>
+					<temperature>47</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="2">
+		<basic>
+			<name>Glaceon</name>
+			<pokemonID>471</pokemonID>
+			<typeA>Ice</typeA>
+			<height>0.8</height>
+			<weight>25.9</weight>
+			<color>0xD6EEFB</color>
+		</basic>
+		<sexual>
+			<defaultAct>cowgirl</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>true</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Breeding Glaceons can, at times, be time consuming, as they will often put up a facade of appearing disinterested, pairing well with their cool personality. They are monogamous towards those they find worthy, although they can be trained to breed professionally with strangers. Their cool coat against their inner body heat is said to provide a unique sexual experience.
+				</description>
+				<extra>
+					Mating personality and traits: Glaceon can be as cold as ice on the surface, but don't let their cool facade fool you when it comes to mating. This frosty vixen generally likes to play as very hard to get as possible, when really all she wants is be underneath her male and melting against the warmth of thrusting friction that his member will inevitably create within her vaginal tunnel. Some have said that the sensation of her colder furry coat against their skin when combine with the simultaneous warmth and security of the Pokémon's genitalia provides during mating is an experience quite like none other.
+				
+					Mating partnerships: Often times Glaceon will come across as overly ‘cool’ and pretend to either be uninterested in the opposite sex, or like they sleep around a lot and have had very many partners; however in all known cases, this has been noted to be just an act they like to put on in order to safeguard themselves.  In truth, this icy Pokémon is actually quite the sensitive type, and will always put their defenses up to fend off any males who might be unworthy of melting down the frigid walls of their mental and emotional barriers.  For this reason, most all Glaceon are monogamous and save their virginity for that one special partner who they have decided they’ve wanted to be their mate for the rest of their life.
+				</extra>
+				<heatCycle>Every 9w for 15d</heatCycle>
+				<vagina>
+					<min>12</min>
+					<max>16</max>
+					<temperature>35</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="3">
+		<basic>
+			<name>Sylveon</name>
+			<pokemonID>700</pokemonID>
+			<typeA>Fairy</typeA>
+			<height>1.0</height>
+			<weight>23.5</weight>
+			<color>0xED99AC</color>
+		</basic>
+		<sexual>
+			<defaultAct>cowgirl</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>false</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					A convenient aid to have as a breeder, Sylveons often play "matchmaker" and instigate sexual relations, even pokémon and humans. In the wild, they are known to abduct travelers to play this game, and may even consider themselves as the match. While sex may just be a game to them, they prefer a single partner when it comes to true intimacy and reproduction, and can be extremely clingy towards whomever they pick.
+				</description>
+				<extra>
+					Mating personality and traits:  Sylveon enjoy little else more than giving of their love and affection freely and without limits to all of those males who she feels she might be able to form a special bond with. She will always share of her emotions and body freely in this special kind of pursuit unique to her kind in order to find the one who is able to capture her heart completely and entirely. The female genitalia of this heartfelt fairy vixen have a distinct way of milking their male counterpart during the heightened peaks of a simultaneously achieved climax, prolonging the experience itself as her mate’s sexual organ is treated to sporadic rippling waves of happily hugging inner flesh.  
+					
+					Mating partnerships: Most always taking more than one partner at once during the sexual maturing years of this Pokémon’s life, Sylveon have even been known to take on a humans as one of their mates on more than one occasion.  Indeed, this fervent fairy eeveelution has no qualms about species borders at all, and they will engage in sexual intercourse with any and all types of Pokémon or species, all seemingly in pursuit of that one special and sacred bond that they hold above all others and that they keep in such high regard. Once this superseder of all other relationships  is made and acknowledged within the heart of another individual, the Sylveon will never again mate with any other partner besides that one single being that they deem as their soul’s mate and eternal counterpart.  
+					
+					Special notes: Often referred to as the masters of intimacy and love-making, for now obvious reasons, they take a great and sincere delight in the act of coaxing the seeds from whatever fortunate male happens to find themselves in sexually engagement with one.  Every intercourse and orgasm achieved by both a Sylveon or her partner during mating is very highly loved and valued by them, as it is even understood to be a kind of training experience which enables them to be better at their aim to become ‘the-ultimate-cute-thing’.  This perfectly pink Pokémon sincerely believes that the more she can come to understand of what it means to be cute, heartfelt, and intimate, the closer she is to getting to and obtaining her one and true soul mate.
+				</extra>
+				<heatCycle>Every 6w for 8d</heatCycle>
+				<vagina>
+					<min>13</min>
+					<max>18</max>
+					<temperature>39</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="4">
+		<basic>
+			<name>Liepard</name>
+			<pokemonID>510</pokemonID>
+			<typeA>Dark</typeA>
+			<height>1.1</height>
+			<weight>37.5</weight>
+			<color>0x72567E</color>
+		</basic>
+		<sexual>
+			<defaultAct>missionary</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>false</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Liepards have a reputation for being perverse and lewd when it comes time to mate. Females generally have high standards towards non-Liepards, although Liepards are common enough that pairing two together is usually a non-issue. Breeders should also be aware that Liepards are a high risk pokémon in regards to forming poképhiliac relationships with the humans they chose to spend time with.
+				</description>
+				<extra>
+					
+				</extra>
+				<heatCycle>Coitus induced, 19d</heatCycle>
+				<vagina>
+					<min>15</min>
+					<max>20</max>
+					<temperature>39</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="5">
+		<basic>
+			<name>Absol</name>
+			<pokemonID>359</pokemonID>
+			<typeA>Dark</typeA>
+			<height>1.2</height>
+			<weight>47.0</weight>
+			<color>0xF6F7F8</color>
+		</basic>
+		<sexual>
+			<defaultAct>missionary</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>false</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Most Absols, male and female alike, harbor a highly protective, sentinel-like nature towards those they care about. It takes a great deal of trust and a relaxing environment in order to get them to lower their guard and allow themselves time to mate. Once engaged, females tend to be rather submissive and will not object to continued sex.
+				</description>
+				<extra>
+					
+				</extra>
+				<heatCycle>Coitus induced, 23d</heatCycle>
+				<vagina>
+					<min>18</min>
+					<max>24</max>
+					<temperature>39</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="6">
+		<basic>
+			<name>Delcatty</name>
+			<pokemonID>301</pokemonID>
+			<typeA>Normal</typeA>
+			<height>1.1</height>
+			<weight>32.6</weight>
+			<color>0xFAEFB9</color>
+		</basic>
+		<sexual>
+			<defaultAct>missionary</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>false</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Data unavailable...
+				</description>
+				<extra>
+					
+				</extra>
+				<heatCycle>Coitus induced, 15d</heatCycle>
+				<vagina>
+					<min>14</min>
+					<max>19</max>
+					<temperature>39</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="7">
+		<basic>
+			<name>Umbreon</name>
+			<pokemonID>197</pokemonID>
+			<typeA>Dark</typeA>
+			<height>1.0</height>
+			<weight>27.0</weight>
+			<color>0x666666</color>
+		</basic>
+		<sexual>
+			<defaultAct>cowgirl</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>false</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Unavailable in beta.
+				</description>
+				<extra>
+					
+				</extra>
+				<heatCycle>Every 7w for 12d</heatCycle>
+				<vagina>
+					<min>13</min>
+					<max>18</max>
+					<temperature>39</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+	<actor pokemonNum="8">
+		<basic>
+			<name>Ninetales</name>
+			<pokemonID>307</pokemonID>
+			<typeA>Fire</typeA>
+			<height>1.1</height>
+			<weight>19.9</weight>
+			<color>0xEE830F</color>
+		</basic>
+		<sexual>
+			<defaultAct>cowgirl</defaultAct>
+			<sensitivity>1</sensitivity>
+			<drool>false</drool>
+			<blush>true</blush>
+			<bias>
+				<slow>1</slow>
+				<fast>1</fast>
+			</bias>
+		</sexual>
+		<pokedex>
+			<female>
+				<description>
+					Unavailable in beta.
+				</description>
+				<extra>
+					
+				</extra>
+				<heatCycle>Every 7w for 12d</heatCycle>
+				<vagina>
+					<min>13</min>
+					<max>18</max>
+					<temperature>39</temperature>
+				</vagina>
+			</female>
+			<male>
+				<description>Not yet used...</description>
+			</male>
+		</pokedex>
+	</actor>
+</POW>
